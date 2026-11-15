@@ -5,11 +5,11 @@
 Estudiante de Desarrollo de Aplicaciones Multiplataforma (Salesianos Zaragoza) y desarrollador junior. Construyo backends en Python para proyectos financieros, tengo mis servicios en una Raspberry Pi y automatizo todo lo que hago más de diez veces.
 
 - 🔭 **Ahora mismo:** un analizador de acciones orientado a value investing: modelos DCF y sectoriales, nota de calidad y timing técnico, servido con FastAPI y un dashboard en React (repo privado).
-- 🤖 **Antes:** un bot de trading de momentum sobre el Nasdaq-100 en Python con backtesting, multicuenta y avisos por Telegram, funcionando 24/7 en mi Raspberry Pi.
+- 🤖 **En pausa:** un bot de trading de momentum sobre el Nasdaq-100 en Python con backtesting, multicuenta y avisos por Telegram, funcionando 24/7 en mi Raspberry Pi (repo privado). El bot funciona; busco un bróker con el que poder operarlo sin fricción—hasta ahora cada opción ha tenido algún inconveniente (p. ej. la API de Trading 212 no permite trading automatizado; Tastytrade cobra comisiones altas en retiradas).
 - 💼 **En el trabajo:** CRMs web con PHP/MySQL.
 - ☕ **También:** Java (POO, nociones de Spring Boot).
 - 🐧 **Entorno:** Arch Linux, terminal ante todo, Raspberry Pi con Ubuntu Server.
-- 🌍 **Busco:** prácticas Erasmus+ de backend en el extranjero. Disponible para reubicarme.
+- 🌍 **Busco:** prácticas Erasmus+ de backend en el extranjero y después empleo en la misma zona. Países objetivo: **Polonia** (preferida), **República Checa**, **Países Bajos**. Disponible para reubicarme.
 - 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/aleix-daroca-zapater-a6a2a6334/) · aleixdz@gmail.com
 
 ### Proyectos públicos
